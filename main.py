@@ -3,6 +3,6 @@ maxnum = 0
 
 for i in lst:
     if i > maxnum:
-        maxnum = 1
+        maxnum = i
 
-    print(maxnum)
+print(maxnum)
